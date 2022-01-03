@@ -1,7 +1,16 @@
 # Создание серверной части приложения
 
 ## ERD модель
+
 <image src = "./images/decanat.png"><image>
+
+
+<img src = "./images/decanat.png"><img>
+
+![img](images/decanat.png)
+
+
+
 ## Дамп базы данных
 ## Код генерации объектов базы данных
 
