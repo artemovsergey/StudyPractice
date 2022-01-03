@@ -2,7 +2,7 @@
 
 ## ERD модель
 
-<img src = "./images/decanat.png"><img>
+<image src = "./images/decanat.png"><image>
 ## Дамп базы данных
 
 ## Код генерации объектов базы данных
