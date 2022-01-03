@@ -7,7 +7,7 @@
 
 
 
-## Дамп базы данных <a href =" http://localhost/Bonobo.Git.Server/Repository/Blob/d076735c-f6a0-4942-965f-d0c8985f3c2a?encodedName=master&encodedPath=dump.sql">Скачать</a>
+## Дамп базы данных <a href ="http://localhost/Bonobo.Git.Server/Repository/d076735c-f6a0-4942-965f-d0c8985f3c2a/master/Raw/dump.sql">Скачать</a>
 
 ## Код генерации объектов базы данных
 
