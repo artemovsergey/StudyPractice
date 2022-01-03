@@ -102,8 +102,8 @@ SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
 
 
 ```
-## Файл MySQL Workbench модели <a href = "/decanat.mwb">Скачать</a>
+## Файл MySQL Workbench модели <a href = "http://localhost/Bonobo.Git.Server/Repository/d076735c-f6a0-4942-965f-d0c8985f3c2a/master/Raw/decanat.mwb">Скачать</a>
 
-## Скрипт для импорта <a href = "./load data.sql">Скачать</a>
+## Скрипт для импорта <a href = "http://localhost/Bonobo.Git.Server/Repository/d076735c-f6a0-4942-965f-d0c8985f3c2a/master/Raw/load~20data.sql">Скачать</a>
 
-## Модель в формате pdf <a href = "./decanat.pdf">Скачать</a>
+## Модель в формате pdf <a href = "http://localhost/Bonobo.Git.Server/Repository/d076735c-f6a0-4942-965f-d0c8985f3c2a/master/Raw/decanat.pdf">Скачать</a>
