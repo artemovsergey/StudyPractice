@@ -2,10 +2,6 @@
 
 ## ERD модель
 
-<image src = "http://localhost/Bonobo.Git.Server/Repository/d076735c-f6a0-4942-965f-d0c8985f3c2a/master/Raw/images/decanat.png"><image>
-
-
-<img src = "http://localhost/Bonobo.Git.Server/Repository/d076735c-f6a0-4942-965f-d0c8985f3c2a/master/Raw/images/decanat.png"><img>
 
 ![img](http://localhost/Bonobo.Git.Server/Repository/d076735c-f6a0-4942-965f-d0c8985f3c2a/master/Raw/images/decanat.png)
 
