@@ -51,6 +51,7 @@
             this.changeCostButton = new System.Windows.Forms.Button();
             this.editProductButton = new System.Windows.Forms.Button();
             this.addProductButton = new System.Windows.Forms.Button();
+            this.maxMinCostLabel = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewProduct)).BeginInit();
             this.SuspendLayout();
@@ -285,12 +286,22 @@
             this.addProductButton.UseVisualStyleBackColor = false;
             this.addProductButton.Click += new System.EventHandler(this.addProductButton_Click);
             // 
+            // maxMinCostLabel
+            // 
+            this.maxMinCostLabel.AutoSize = true;
+            this.maxMinCostLabel.Location = new System.Drawing.Point(332, 31);
+            this.maxMinCostLabel.Name = "maxMinCostLabel";
+            this.maxMinCostLabel.Size = new System.Drawing.Size(140, 14);
+            this.maxMinCostLabel.TabIndex = 22;
+            this.maxMinCostLabel.Text = "Максимальная цена: ";
+            // 
             // ProductForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 14F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1370, 749);
+            this.Controls.Add(this.maxMinCostLabel);
             this.Controls.Add(this.addProductButton);
             this.Controls.Add(this.editProductButton);
             this.Controls.Add(this.changeCostButton);
@@ -351,6 +362,7 @@
         private System.Windows.Forms.Button changeCostButton;
         private System.Windows.Forms.Button editProductButton;
         private System.Windows.Forms.Button addProductButton;
+        private System.Windows.Forms.Label maxMinCostLabel;
     }
 }
 

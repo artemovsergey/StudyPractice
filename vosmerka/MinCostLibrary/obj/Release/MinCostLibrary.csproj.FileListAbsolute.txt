@@ -1,0 +1,16 @@
+C:\Users\artik\OneDrive\Study-practice\vosmerka\MinCostLibrary\bin\Release\MinCostLibrary.dll
+C:\Users\artik\OneDrive\Study-practice\vosmerka\MinCostLibrary\bin\Release\MinCostLibrary.pdb
+C:\Users\artik\OneDrive\Study-practice\vosmerka\MinCostLibrary\bin\Release\MySql.Data.dll
+C:\Users\artik\OneDrive\Study-practice\vosmerka\MinCostLibrary\bin\Release\Google.Protobuf.dll
+C:\Users\artik\OneDrive\Study-practice\vosmerka\MinCostLibrary\bin\Release\ZstdNet.dll
+C:\Users\artik\OneDrive\Study-practice\vosmerka\MinCostLibrary\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\artik\OneDrive\Study-practice\vosmerka\MinCostLibrary\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\artik\OneDrive\Study-practice\vosmerka\MinCostLibrary\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\artik\OneDrive\Study-practice\vosmerka\MinCostLibrary\bin\Release\System.Memory.dll
+C:\Users\artik\OneDrive\Study-practice\vosmerka\MinCostLibrary\bin\Release\System.Buffers.dll
+C:\Users\artik\OneDrive\Study-practice\vosmerka\MinCostLibrary\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\artik\OneDrive\Study-practice\vosmerka\MinCostLibrary\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\artik\OneDrive\Study-practice\vosmerka\MinCostLibrary\obj\Release\MinCostLibrary.csproj.CoreCompileInputs.cache
+C:\Users\artik\OneDrive\Study-practice\vosmerka\MinCostLibrary\obj\Release\MinCostLibrary.csproj.CopyComplete
+C:\Users\artik\OneDrive\Study-practice\vosmerka\MinCostLibrary\obj\Release\MinCostLibrary.dll
+C:\Users\artik\OneDrive\Study-practice\vosmerka\MinCostLibrary\obj\Release\MinCostLibrary.pdb

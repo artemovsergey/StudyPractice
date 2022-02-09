@@ -113,5 +113,11 @@
   <ItemGroup>
     <None Include="Resources\Восьмерка.png" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MinCostLibrary\MinCostLibrary.csproj">
+      <Project>{52920353-a3e7-43b4-8a9f-b02d155eefbf}</Project>
+      <Name>MinCostLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

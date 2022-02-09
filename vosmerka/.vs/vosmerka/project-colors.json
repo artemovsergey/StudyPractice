@@ -10,7 +10,27 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Прочие файлы",
       "ColorIndex": -1
+    },
+    "16718029-dabc-4235-bab1-c8d017b715db": {
+      "ProjectGuid": "16718029-dabc-4235-bab1-c8d017b715db",
+      "DisplayName": "ChangeCostClassLibrary",
+      "ColorIndex": 1
+    },
+    "2b3166e1-7d71-4ad7-84a6-f8f1ce34a7f7": {
+      "ProjectGuid": "2b3166e1-7d71-4ad7-84a6-f8f1ce34a7f7",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 2
+    },
+    "f3796146-0710-481c-8928-f46f4f60e4d7": {
+      "ProjectGuid": "f3796146-0710-481c-8928-f46f4f60e4d7",
+      "DisplayName": "ClassLibrary",
+      "ColorIndex": 3
+    },
+    "52920353-a3e7-43b4-8a9f-b02d155eefbf": {
+      "ProjectGuid": "52920353-a3e7-43b4-8a9f-b02d155eefbf",
+      "DisplayName": "MinCostLibrary",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 5
 }

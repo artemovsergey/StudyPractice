@@ -9,13 +9,14 @@ using System.Windows.Forms;
 using MySql.Data;
 using MySql.Data.MySqlClient;
 
+
 namespace vosmerka
 {
     public partial class LoginForm : Form
     {
         public LoginForm()
         {
-            InitializeComponent();
+            InitializeComponent();        
         }
 
         // 

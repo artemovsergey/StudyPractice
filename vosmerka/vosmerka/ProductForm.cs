@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using MySql.Data;
 using MySql.Data.MySqlClient;
+using MinCostLibrary;
 
 namespace vosmerka
 {
@@ -182,6 +183,9 @@ namespace vosmerka
 
 
             //
+
+            maxMinCostLabel.Text = $"Максимальная цена: {MinCost.MaxCostProduct().ToString()}";
+
 
 
 

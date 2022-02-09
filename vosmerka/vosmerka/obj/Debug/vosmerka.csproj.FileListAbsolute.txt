@@ -49,3 +49,5 @@ C:\Users\artik\OneDrive\Study-practice\vosmerka\vosmerka\obj\Debug\vosmerka.cspr
 C:\Users\artik\OneDrive\Study-practice\vosmerka\vosmerka\obj\Debug\vosmerka.csproj.CopyComplete
 C:\Users\artik\OneDrive\Study-practice\vosmerka\vosmerka\obj\Debug\vosmerka.exe
 C:\Users\artik\OneDrive\Study-practice\vosmerka\vosmerka\obj\Debug\vosmerka.pdb
+C:\Users\artik\OneDrive\Study-practice\vosmerka\vosmerka\bin\Debug\MinCostLibrary.dll
+C:\Users\artik\OneDrive\Study-practice\vosmerka\vosmerka\bin\Debug\MinCostLibrary.pdb

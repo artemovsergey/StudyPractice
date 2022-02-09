@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vosmerka", "vosmerka\vosmerka.csproj", "{D47417D9-4380-45D9-A1B7-222050EA7091}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinCostLibrary", "MinCostLibrary\MinCostLibrary.csproj", "{52920353-A3E7-43B4-8A9F-B02D155EEFBF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{8BEB5C64-D698-491C-9B16-027F786D52AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,12 @@ Global
 		{D47417D9-4380-45D9-A1B7-222050EA7091}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D47417D9-4380-45D9-A1B7-222050EA7091}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D47417D9-4380-45D9-A1B7-222050EA7091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52920353-A3E7-43B4-8A9F-B02D155EEFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52920353-A3E7-43B4-8A9F-B02D155EEFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52920353-A3E7-43B4-8A9F-B02D155EEFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52920353-A3E7-43B4-8A9F-B02D155EEFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BEB5C64-D698-491C-9B16-027F786D52AE}.Debug|Any CPU.ActiveCfg = Debug
+		{8BEB5C64-D698-491C-9B16-027F786D52AE}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
