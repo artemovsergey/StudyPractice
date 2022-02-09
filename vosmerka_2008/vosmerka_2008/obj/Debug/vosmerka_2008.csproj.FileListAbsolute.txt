@@ -1,0 +1,13 @@
+C:\Users\artik\Desktop\vosmerka_2008\vosmerka_2008\bin\Debug\vosmerka_2008.exe
+C:\Users\artik\Desktop\vosmerka_2008\vosmerka_2008\bin\Debug\vosmerka_2008.pdb
+C:\Users\artik\Desktop\vosmerka_2008\vosmerka_2008\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\artik\Desktop\vosmerka_2008\vosmerka_2008\obj\Debug\WindowsFormsApplication1.ChangeCostForm.resources
+C:\Users\artik\Desktop\vosmerka_2008\vosmerka_2008\obj\Debug\WindowsFormsApplication1.EditProductForm.resources
+C:\Users\artik\Desktop\vosmerka_2008\vosmerka_2008\obj\Debug\WindowsFormsApplication1.ProductForm.resources
+C:\Users\artik\Desktop\vosmerka_2008\vosmerka_2008\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\artik\Desktop\vosmerka_2008\vosmerka_2008\obj\Debug\vosmerka_2008.csproj.GenerateResource.Cache
+C:\Users\artik\Desktop\vosmerka_2008\vosmerka_2008\obj\Debug\vosmerka_2008.exe
+C:\Users\artik\Desktop\vosmerka_2008\vosmerka_2008\obj\Debug\vosmerka_2008.pdb
+C:\Users\artik\Desktop\vosmerka_2008\vosmerka_2008\obj\Debug\WindowsFormsApplication1.LoginForm.resources
+C:\Users\artik\OneDrive\Study-practice\vosmerka_2008\vosmerka_2008\obj\Debug\vosmerka_2008.exe
+C:\Users\artik\OneDrive\Study-practice\vosmerka_2008\vosmerka_2008\obj\Debug\vosmerka_2008.pdb

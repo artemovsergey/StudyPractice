@@ -1,0 +1,6 @@
+C:\Users\artik\Desktop\vosmerka_2008\vosmerka_2008\obj\Release\ResolveAssemblyReference.cache
+C:\Users\artik\Desktop\vosmerka_2008\vosmerka_2008\obj\Release\WindowsFormsApplication1.ChangeCostForm.resources
+C:\Users\artik\Desktop\vosmerka_2008\vosmerka_2008\obj\Release\WindowsFormsApplication1.EditProductForm.resources
+C:\Users\artik\Desktop\vosmerka_2008\vosmerka_2008\obj\Release\WindowsFormsApplication1.ProductForm.resources
+C:\Users\artik\Desktop\vosmerka_2008\vosmerka_2008\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\artik\Desktop\vosmerka_2008\vosmerka_2008\obj\Release\vosmerka_2008.csproj.GenerateResource.Cache
