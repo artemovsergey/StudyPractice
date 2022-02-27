@@ -141,3 +141,6 @@ Error Code: 1452. Cannot add or update a child row: a foreign key constraint fai
 ```
 **Решение**: ``` SET FOREIGN_KEY_CHECKS=0 ``` отменяет проверку ограничений внешних ключей на время
 
+# Быстрый импорт
+
+![fastimport](./gifs/fastimport.gif)
